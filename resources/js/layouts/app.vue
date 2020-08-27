@@ -1,6 +1,6 @@
 <template>
   <div>
-    hello worl
+    <router-view></router-view>  
   </div>
 </template>
 
