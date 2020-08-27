@@ -1,0 +1,81 @@
+[
+  {
+    "title": "bayi",
+    "priceMonthly": 19900,
+    "discountPriceMonthly": 14900,
+    "registeredUser": 938,
+    "features": [
+      "<b>0.5X RESOURCE POWER</b>",
+      "<b>500 MB</b> Disk Space",
+      "<b>Unlimited</b Bandwidth",
+      "<b>Unlimited</b> Databases",
+      "<b>1</b> Domain",
+      "<b>Instant</b> Backup",
+      "<b>Unlimited SSL</b> Gratis Selamanya"
+    ],
+    "isBestSeller": false,
+    "buttonText": "pilih sekarang"
+  },
+  {
+    "title": "pelajar",
+    "priceMonthly": 46900,
+    "discountPriceMonthly": 23450,
+    "registeredUser": 4168,
+    "features": [
+      "<b>IX RESOURCE POWER</b>",
+      "<b>Unlimited</b> Disk Space",
+      "<b>Unlimited</b> Bandwidth",
+      "<b>Unlimited</b> POP3 Email",
+      "<b>Unlimited</b> Databases",
+      "<b>10</b> Addon Domains",
+      "<b>Instant</b> Backup",
+      "<b>Domain Gratis</b> Selamanya",
+      "<b>Unlimited SSL</b> Gratis Selamanya"
+    ],
+    "isBestSeller": false,
+    "buttonText": "pilih sekarang"
+  },
+  {
+    "title": "personal",
+    "priceMonthly": 58900,
+    "discountPriceMonthly": 38900,
+    "registeredUser": 10017,
+    "features": [
+      "<b>2X RESOURCE POWER</b>",
+      "<b>Unlimited</b> Disk Space",
+      "<b>Unlimited</b> Bandwidth",
+      "<b>Unlimited</b> POP3 Email",
+      "<b>Unlimited</b> Databases",
+      "<b>Unlimited</b> Addon Domains",
+      "<b>Instant</b> Backup",
+      "<b>Domain Gratis</b> Selamanya",
+      "<b>Unlimited SSL</b> Gratis Selamanya",
+      "<b>Private</b> Name Server",
+      "<b>SpamAssasin</b> Mail Protection"
+    ],
+    "isBestSeller": true,
+    "buttonText": "pilih sekarang"
+  },
+  {
+    "title": "bisnis",
+    "priceMonthly": 109900,
+    "discountPriceMonthly": 65900,
+    "registeredUser": 3522,
+    "features": [
+      "<b>3X RESOURCE POWER</b>",
+      "<b>Unlimited</b> Disk Space",
+      "<b>Unlimited</b> Bandwidth",
+      "<b>Unlimited</b> POP3 Email",
+      "<b>Unlimited</b> Databases",
+      "<b>Unlimited</b> Addon Domains",
+      "<b>Magic Auto</b> Backup & Restore",
+      "<b>Domain Gratis</b> Selamanya",
+      "<b>Unlimited SSL</b> Gratis Selamanya",
+      "<b>Private</b> Name Server",
+      "<b>Prioritas</b> Layanan Support",
+      "<b>SpamExpert</b> Pro Mail Protection"
+    ],
+    "isBestSeller": false,
+    "buttonText": "diskon 40%"
+  }
+]
