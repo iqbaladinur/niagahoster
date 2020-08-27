@@ -3,3 +3,17 @@
 @tailwind components;
 /* purgecss end ignore */
 @tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Roboto&display=swap');
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.title {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+.subtitle {
+  font-family: 'Montserrat', sans-serif;
+}
