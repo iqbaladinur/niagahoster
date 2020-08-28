@@ -4,15 +4,19 @@
     <div style="padding-top: 147px">
       <router-view></router-view>  
     </div>
+    <MyFooter />
   </div>
 </template>
 
 <script>
 import Navbar from "../components/Navbar";
+import MyFooter from '../components/MyFooter.vue';
+
 export default {
   name: 'App',
   components: {
-    Navbar
+    Navbar,
+    MyFooter
   }
 }
 </script>

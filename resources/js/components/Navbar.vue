@@ -54,7 +54,7 @@
     </div>
     <!-- end of notif -->
     <!-- start of navbar -->
-    <div class="border-bottom">
+    <div class="border-bottom bg-white">
       <nav class="container mx-auto">
         <div class="flex items-center justify-between flex-wrap">
           <div class="flex items-center justify-between py-6 lg:px-0 px-5 lg:w-auto w-full">

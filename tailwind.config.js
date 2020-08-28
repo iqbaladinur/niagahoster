@@ -7,11 +7,17 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        "main-font": "#4c4c4c"
+        "main-font": "#4c4c4c",
+        "footer": "#333333",
+        "footer-title": "#8d8d8d",
+        "brand": '#22a1f0'
       }
     },
   },
-  variants: {},
+  variants: {
+    borderStyle: ['responsive', 'hover', 'focus'],
+    borderWidth: ['responsive', 'hover', 'focus'],
+  },
   plugins: [],
   experimental: {
     applyComplexClasses: true,
