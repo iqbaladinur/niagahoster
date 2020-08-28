@@ -1,7 +1,7 @@
 <template>
   <div>
     <Navbar />
-    <div>
+    <div class="pt-40">
       <router-view></router-view>  
     </div>
   </div>
@@ -20,6 +20,6 @@ export default {
 <style>
 .custom-container{
   @apply container;
-  @apply mx-auto;
+  @apply mx-auto lg:px-0 px-5;
 }
 </style>
