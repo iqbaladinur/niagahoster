@@ -30,4 +30,7 @@ export default {
   @apply text-3xl;
   @apply font-black;
 }
+b {
+  font-weight: bold;
+}
 </style>
