@@ -4,11 +4,11 @@
       <div class="flex flex-wrap">
          <div class="lg:w-1/2 w-full flex items-center flex-shrink-0">
           <div>
-            <h1 class="text-3xl text-left mb-5">
+            <h1 class="text-3xl font-light text-left mb-5">
               Linux Hosting yang Stabil <br>
               dengan Teknologi LVE
             </h1>
-            <p class="pb-4 text-lg">
+            <p class="pb-4 text-lg font-light">
               SuperMicro <b>Intel Xeon 24-Cores</b> server dengan RAM <b>128 GB</b> dan teknologi <b>LVE CloudLinux</b> untuk stabilitas server Anda. Dilengkapi dengan <b>SSD</b> untuk kecepatan <b>MySQL</b> dan caching, Apache load balance berbasis LiteSpeed Technologies, <b>CageFS</b> security, <b>Raid-10</b> protection dan auto backup untuk keamanan website PHP Anda.
             </p>
             <button class="font-bold focus:outline-none rounded-full bg-brand h-10 px-4 text-white">
@@ -41,11 +41,24 @@
         </div>
       </div>
     </div>
-    <div class="bg-brand">
+    <div class="bg-brand text-white">
       <div class="custom-container">
-        <div class="flex items-center">
-          <div>
-            
+        <div class="flex flex-wrap justify-between items-center">
+          <div class="lg:w-3/4 w-full lg:text-3xl text-xl flex lg:justify-between justify-center items-center lg:mt-0 mt-10">
+            <span class="lg:text-left text-center">
+              Perlu <b>BANTUAN?</b> Hubungi Kami: <a href="tel:02742920443" class="font-bold">0274 - 2920443</a>
+            </span>
+            <span class="border-r-4 border-blue-300 py-10 mr-32 hidden lg:inline-block" />
+          </div>
+          <div class="lg:w-1/4 w-full py-10 flex lg:justify-start justify-center items-center">
+            <button class="focus:outline-none h-12 px-10 rounded-full border-2">
+              <span class="mr-2">
+                <i class="fa fa-comments"></i>
+              </span>
+              <span>
+                Live Chat
+              </span>
+            </button>
           </div>
         </div>
       </div>

@@ -1,6 +1,6 @@
 <template>
   <div class="custom-container">
-    <h1 class="text-3xl text-center mb-10">
+    <h1 class="text-3xl font-light text-center mb-10">
       Modul Lengkap untuk Menjalankan Aplikasi PHP Anda
     </h1>
     <div class="flex flex-wrap justify-center secondary-font">

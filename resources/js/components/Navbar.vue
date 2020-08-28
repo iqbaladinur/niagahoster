@@ -1,7 +1,7 @@
 <template>
   <div class="fixed w-full secondary-font z-20">
     <!-- start of notif -->
-    <div class="border-bottom bg-white">
+    <div class="border-bottom bg-white font-light">
       <div class="custom-container">
         <div class="flex justify-end relative lg:h-auto h-12">
           <div class="absolute top-0 left-0 h-full w-auto flex">

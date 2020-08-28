@@ -4,18 +4,65 @@
 /* purgecss end ignore */
 @tailwind utilities;
 
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&family=Roboto:wght@300;400;700&display=swap');
-
-body {
-  font-family: 'Monsterrat', sans-serif;
+// @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&family=Roboto:wght@300;400;700&display=swap');
+@font-face {
+  font-family: Montserrat;
+  src: url('/assets/fonts/montserrat/Montserrat-Bold.otf');
+  font-weight: bold;
+}
+@font-face {
+  font-family: Montserrat;
+  src: url('/assets/fonts/montserrat/Montserrat-Regular.otf');
+}
+@font-face {
+  font-family: Montserrat;
+  src: url('/assets/fonts/montserrat/Montserrat-Light.otf');
   font-weight: 300;
+}
+@font-face {
+  font-family: Montserrat;
+  src: url('/assets/fonts/montserrat/Montserrat-Hairline.otf');
+  font-weight: 100;
+}
+@font-face {
+  font-family: Montserrat;
+  src: url('/assets/fonts/montserrat/Montserrat-Black.otf');
+  font-weight: 900;
+}
+
+@font-face {
+  font-family: Roboto;
+  src: url('/assets/fonts/roboto/Roboto-Bold.ttf');
+  font-weight: bold;
+}
+@font-face {
+  font-family: Roboto;
+  src: url('/assets/fonts/roboto/Roboto-Regular.ttf');
+}
+@font-face {
+  font-family: Roboto;
+  src: url('/assets/fonts/roboto/Roboto-Light.ttf');
+  font-weight: 300;
+}
+@font-face {
+  font-family: Roboto;
+  src: url('/assets/fonts/roboto/Roboto-Hairline.ttf');
+  font-weight: 100;
+}
+@font-face {
+  font-family: Roboto;
+  src: url('/assets/fonts/roboto/Roboto-Black.ttf');
+  font-weight: 900;
+}
+body {
+  font-family: Montserrat;
   font-style: normal;
   color: #4c4c4c;
 }
 // utility
 .main-font {
-  font-family: 'Montserrat', sans-serif;
+  font-family: Montserrat;
 }
 .secondary-font {
-  font-family: 'Roboto', sans-serif;
+  font-family: Roboto;
 }

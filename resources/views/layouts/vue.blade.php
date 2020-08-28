@@ -21,10 +21,10 @@
   <meta name="twitter:image" content="https://whispering-shore-37649.herokuapp.com/assets/images/ogimage.jpg">
   <link rel="shortcut icon" href="/assets/favicon.ico">
   <link rel="stylesheet" href="/css/app.css">
-  <script src="https://use.fontawesome.com/2d86b43fb3.js"></script>
 </head>
 <body>
   <div id="app"></div>
   <script src="/js/app.js"></script>
+  <script src="https://use.fontawesome.com/2d86b43fb3.js"></script>
 </body>
 </html>

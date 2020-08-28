@@ -4,14 +4,14 @@
       <div class="flex py-16 flex-wrap">
         <div class="lg:w-1/2 w-full flex items-center flex-shrink-0">
           <div>
-            <h1 class="text-4xl font-black pb-4">
+            <h1 class="text-4xl font-bold pb-4">
               PHP Hosting
             </h1>
-            <p class="pb-4 text-2xl">
+            <p class="pb-4 text-2xl font-light">
               Cepat, handal, penuh dengan <br>
               modul PHP yang anda butuhkan
             </p>
-            <ul>
+            <ul class="font-light">
               <li class="inline-flex items-center py-2">
                 <span class="text-lg mr-2 text-green-500">
                   <i class="fa fa-check-circle" aria-hidden="true"></i>

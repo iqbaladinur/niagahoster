@@ -1,6 +1,6 @@
 <template>
   <div class="custom-container">
-    <h1 class="text-3xl text-center mb-5">
+    <h1 class="text-3xl font-light text-center mb-5">
       Semua Paket Hosting Sudah Termasuk
     </h1>
     <div class="flex flex-wrap">
@@ -10,7 +10,7 @@
         </div>
         <div>
           <h1 class="font-bold text-center text-lg">PHP Semua Versi</h1>
-          <p class="text-center">
+          <p class="text-center font-light">
             Pilih mulai dari PHP versi 5.3 s.d PHP 7. <br>
             Ubah sesuka anda!
           </p>
@@ -22,7 +22,7 @@
         </div>
         <div>
           <h1 class="font-bold text-center text-lg">MySQL Versi 5.6</h1>
-          <p class="text-center">
+          <p class="text-center font-light">
             Nikmati MySQL versi terbaru, tercepat, dan<br>
              kaya akan fitur.
           </p>
@@ -34,7 +34,7 @@
         </div>
         <div>
           <h1 class="font-bold text-center text-lg">Panel Hosting cPanel</h1>
-          <p class="text-center">
+          <p class="text-center font-light">
             Kelola website dengan panel canggih yang<br>
             familiar di hati Anda.
           </p>
@@ -46,7 +46,7 @@
         </div>
         <div>
           <h1 class="font-bold text-center text-lg">Garansi Uptime 99.9%</h1>
-          <p class="text-center">
+          <p class="text-center font-light">
             Data center yang mendukung kelangsungan<br>
             website Anda 24/7.
           </p>
@@ -58,7 +58,7 @@
         </div>
         <div>
           <h1 class="font-bold text-center text-lg">Database InnoDb Unlimited</h1>
-          <p class="text-center">
+          <p class="text-center font-light">
             Jumlah dan ukuran database yang tumbuh<br>
             sesuai kebutuhan Anda.
           </p>
@@ -70,7 +70,7 @@
         </div>
         <div>
           <h1 class="font-bold text-center text-lg">Wildcard Remote MySQL</h1>
-          <p class="text-center">
+          <p class="text-center font-light">
             Mendukung s/d 25 max_user_connections<br>
             dan 100 max_connections.
           </p>

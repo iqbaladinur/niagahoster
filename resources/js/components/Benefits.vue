@@ -1,9 +1,9 @@
 <template>
   <div class="custom-container">
-    <h1 class="text-3xl text-center mb-5">
+    <h1 class="text-3xl font-light text-center mb-5">
       Powerful dengan Limit PHP yang Lebih Besar
     </h1>
-    <div class="flex flex-wrap justify-center mb-10">
+    <div class="flex flex-wrap justify-center mb-10 font-light">
       <div class="lg:w-5/12 w-full lg:p-4 lg:mb-0 mb-5">
         <ul class="w-full border">
           <li class="relative flex items-center h-10 w-full justify-center border-b">

@@ -1,13 +1,13 @@
 <template>
   <div class="border-b">
     <div class="custom-container">
-      <h1 class="text-3xl text-center mb-16">
+      <h1 class="text-3xl font-light text-center mb-16">
         Mendukung Penuh Framework Laravel
       </h1>
-      <div class="flex flex-wrap">
+      <div class="flex flex-wrap font-light">
          <div class="lg:w-1/2 w-full flex items-center flex-shrink-0">
           <div>
-            <p class="pb-4 text-2xl">
+            <p class="pb-4 text-xl">
               Tak perlu menggunakan dedicated server ataupun VPS <br>
               yang mahal. Layanan PHP hosting murah kami <br>
               mendukung penuh framework Anda.

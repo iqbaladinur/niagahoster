@@ -248,7 +248,7 @@
       <div class="flex flex-wrap pb-10 text-xs">
         <div class="lg:w-3/5 w-full">
           <p class="lg:text-left text-center">
-            Copyright ©2017 Niagahoster | Hosting powered by PHP7, CloudLinux, CloudFlare, BitNinja and <a href="#">DC Biznet Technovillage Jakarta</a> Cloud VPS Murah powered by Webuzo Softaculous, Intel SSD and cloud computing technology
+            Copyright ©2017 Niagahoster | Hosting powered by PHP7, CloudLinux, CloudFlare, BitNinja and <a href="#" class="hover:border-b">DC Biznet Technovillage Jakarta</a> Cloud VPS Murah powered by Webuzo Softaculous, Intel SSD and cloud computing technology
           </p>
         </div>
         <div class="lg:w-2/5 w-full lg:mt-0 mt-5">
