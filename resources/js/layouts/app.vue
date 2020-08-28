@@ -1,15 +1,25 @@
 <template>
   <div>
-    <router-view></router-view>  
+    <Navbar />
+    <div>
+      <router-view></router-view>  
+    </div>
   </div>
 </template>
 
 <script>
+import Navbar from "../components/Navbar";
 export default {
-  name: 'App'
+  name: 'App',
+  components: {
+    Navbar
+  }
 }
 </script>
 
 <style>
-
+.custom-container{
+  @apply container;
+  @apply mx-auto;
+}
 </style>
