@@ -1,7 +1,7 @@
 <template>
   <div>
     <Navbar />
-    <div class="pt-40">
+    <div style="padding-top: 147px">
       <router-view></router-view>  
     </div>
   </div>
@@ -21,5 +21,9 @@ export default {
 .custom-container{
   @apply container;
   @apply mx-auto lg:px-0 px-5;
+}
+.header{
+  @apply text-3xl;
+  @apply font-black;
 }
 </style>

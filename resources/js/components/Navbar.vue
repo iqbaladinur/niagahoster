@@ -1,5 +1,5 @@
 <template>
-  <div class="fixed w-full">
+  <div class="fixed w-full secondary-font">
     <!-- start of notif -->
     <div class="border-bottom bg-white">
       <div class="custom-container">

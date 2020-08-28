@@ -4,21 +4,18 @@
 /* purgecss end ignore */
 @tailwind utilities;
 
-@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&family=Roboto:wght@300;400;700&display=swap');
 
 body {
   font-family: 'Monsterrat', sans-serif;
-  font-weight: 400;
+  font-weight: normal;
   font-style: normal;
   color: #4c4c4c;
-  font-size: 1em;
-  line-height: 1.42857143;
 }
-
-.title {
+// utility
+.main-font {
   font-family: 'Montserrat', sans-serif;
-  font-weight: bold;
 }
-.subtitle {
-  font-family: 'Montserrat', sans-serif;
+.secondary-font {
+  font-family: 'Roboto', sans-serif;
 }
