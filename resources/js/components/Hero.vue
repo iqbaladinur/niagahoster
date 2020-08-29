@@ -12,25 +12,25 @@
               modul PHP yang anda butuhkan
             </p>
             <ul class="font-light">
-              <li class="inline-flex items-center py-2">
+              <li class="inline-flex lg:items-center py-2">
                 <span class="text-lg mr-2 text-green-500">
                   <i class="fa fa-check-circle" aria-hidden="true"></i>
                 </span>
                 <span>Solusi PHP untuk performa query yang lebih cepat.</span>
               </li>
-              <li class="inline-flex items-center py-2">
+              <li class="inline-flex lg:items-center py-2">
                 <span class="text-lg mr-2 text-green-500">
                   <i class="fa fa-check-circle" aria-hidden="true"></i>
                 </span>
                 <span>Konsumsi memori yang lebih rendah.</span>
               </li>
-              <li class="inline-flex items-center py-2">
+              <li class="inline-flex lg:items-center py-2">
                 <span class="text-lg mr-2 text-green-500">
                   <i class="fa fa-check-circle" aria-hidden="true"></i>
                 </span>
                 <span>Support PHP 5.3, PHP 5.4, PHP 5.5, PHP 5.6, PHP 7.</span>
               </li>
-              <li class="inline-flex items-center py-2">
+              <li class="inline-flex lg:items-center py-2">
                 <span class="text-lg mr-2 text-green-500">
                   <i class="fa fa-check-circle" aria-hidden="true"></i>
                 </span>
@@ -40,7 +40,7 @@
           </div>
         </div>
         <div class="lg:w-1/2 w-full">
-          <img src="/assets/svg/banner.svg" alt="banner">
+          <img src="/assets/svg/banner.svg" alt="banner" loading="lazy">
         </div>
       </div>
     </div>

@@ -60,7 +60,7 @@
           <div class="flex items-center justify-between py-6 lg:px-0 px-5 lg:w-auto w-full">
             <div class="flex items-start flex-shrink-0 mr-6">
               <a href="/">
-                <img src="/assets/images/logo.png" alt="niagahoster" class="lg:w-48 w-40">
+                <img src="/assets/images/logo.png" alt="niagahoster" class="lg:w-48 w-40" loading="lazy">
               </a>
             </div>
             <div class="flex items-center lg:hidden">

@@ -10,7 +10,8 @@ module.exports = {
         "main-font": "#4c4c4c",
         "footer": "#333333",
         "footer-title": "#8d8d8d",
-        "brand": '#22a1f0'
+        "brand": '#22a1f0',
+        "brand-deep": '#177eda'
       }
     },
   },

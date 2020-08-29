@@ -13,19 +13,19 @@
               mendukung penuh framework Anda.
             </p>
             <ul>
-              <li class="inline-flex items-center py-2">
+              <li class="inline-flex lg:items-center py-2">
                 <span class="text-lg mr-2 text-green-500">
                   <i class="fa fa-check-circle" aria-hidden="true"></i>
                 </span>
                 <span>Install laravel <b>1 klik</b> dengan Softaculus Installer.</span>
               </li>
-              <li class="inline-flex items-center py-2">
+              <li class="inline-flex lg:items-center py-2">
                 <span class="text-lg mr-2 text-green-500">
                   <i class="fa fa-check-circle" aria-hidden="true"></i>
                 </span>
                 <span>Mendukung ekstensi <b>PHP MCrypt, phar, mbstring, json, dan file info.</b>.</span>
               </li>
-              <li class="inline-flex items-center py-2">
+              <li class="inline-flex lg:items-center py-2">
                 <span class="text-lg mr-2 text-green-500">
                   <i class="fa fa-check-circle" aria-hidden="true"></i>
                 </span>
@@ -41,7 +41,7 @@
           </div>
         </div>
         <div class="lg:w-1/2 w-full lg:mt-0 mt-10">
-          <img src="/assets/svg/illustration banner support laravel hosting.svg" alt="laravel">
+          <img loading="lazy" src="/assets/svg/illustration banner support laravel hosting.svg" alt="laravel">
         </div>
       </div>
     </div>

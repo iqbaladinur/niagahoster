@@ -1,4 +1,3 @@
-import './bootstrap';
 import Vue from 'vue';
 import App from './layouts/app.vue'
 import router from './router'

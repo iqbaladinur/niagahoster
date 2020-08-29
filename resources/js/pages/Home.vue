@@ -1,18 +1,20 @@
 <template>
   <div>
     <Hero />
-    <Features class="mt-5" />
-    <Benefits class="mt-5" />
-    <hosting-fasility class="mt-5" />
-    <Laravel class="mt-5" />
+    <Features class="mt-10" />
+    <packages class="mt-10" />
+    <Benefits class="mt-10" />
+    <hosting-fasility class="mt-10" />
+    <Laravel class="mt-10" />
     <modules class="mt-10" />
-    <support class="mt-5" />
+    <support class="mt-10" />
   </div>
 </template>
 
 <script>
 import Hero from '../components/Hero.vue';
 import Features from '../components/Features.vue';
+import Packages from '../components/Packages.vue';
 import Benefits from '../components/Benefits.vue';
 import HostingFasility from '../components/HostingFasility.vue';
 import Laravel from '../components/Laravel.vue';
@@ -23,6 +25,7 @@ export default {
   components: {
     Hero,
     Features,
+    Packages,
     Benefits,
     HostingFasility,
     Laravel,

@@ -17,7 +17,7 @@
           </div>
         </div>
         <div class="lg:w-1/2 w-full lg:mt-0 mt-10">
-          <img src="/assets/images/Image support.png" class="w-full" alt="laravel">
+          <img loading="lazy" src="/assets/images/Image support.png" class="w-full" alt="laravel">
         </div>
       </div>
     </div>
