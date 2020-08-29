@@ -1,7 +1,7 @@
 <template>
   <div class="fixed w-full secondary-font z-20">
     <!-- start of notif -->
-    <div class="border-bottom bg-white font-light">
+    <div class="border-bottom bg-white font-light" :class="{ 'hidden' : isHideNotif }">
       <div class="custom-container">
         <div class="flex justify-end relative lg:h-auto h-12">
           <div class="absolute top-0 left-0 h-full w-auto flex">
@@ -12,7 +12,7 @@
               <div class="arrow-up absolute bg-white left-0 bottom-0 h-8 w-8"></div>
             </div>
             <p class="text-xs my-auto pl-12">
-              <a href="#">Gratis Ebook 9 cara cerdas menggunakan domain</a> <span class="hover:text-gray-900 cursor-pointer">[x]</span>
+              <a href="#">Gratis Ebook 9 cara cerdas menggunakan domain</a> <span class="hover:text-gray-900 cursor-pointer" @click="isHideNotif = true">[x]</span>
             </p>
           </div>
           <div class="h-full lg:block hidden">
@@ -69,7 +69,7 @@
               </a>
               <button
                 @click="isHidden = !isHidden"
-                class="flex items-center px-2 py-2 border rounded text-gray-700 border-gray-700 hover:text-white hover:border-white focus:bg-gray-700 focus:outline-none"
+                class="flex items-center px-2 py-2 border rounded text-gray-700 border-gray-700 hover:text-white hover:border-white focus:text-white focus:border-white focus:bg-gray-700 focus:outline-none"
               >
                 <svg class="fill-current h-3 w-3" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><title>Menu</title><path d="M0 3h20v2H0V3zm0 6h20v2H0V9zm0 6h20v2H0v-2z"/></svg>
               </button>
@@ -146,7 +146,8 @@ export default {
   name: 'Navbar',
   data() {
     return {
-      isHidden: true
+      isHidden: true,
+      isHideNotif: false
     }
   }
 }

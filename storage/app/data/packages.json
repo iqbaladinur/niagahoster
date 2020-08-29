@@ -73,7 +73,7 @@
       "<b>Unlimited SSL</b> Gratis Selamanya",
       "<b>Private</b> Name Server",
       "<b>Prioritas</b> Layanan Support",
-      "<i class='fa fa-star text-brand px-1'></i><i class='fa fa-star text-brand px-1'></i><i class='fa fa-star text-brand px-1'></i><i class='fa fa-star text-brand px-1'></i><i class='fa fa-star text-brand px-1'></i>",
+      "<span style='color: #22a1f0 !important'><i class='fa fa-star'></i><i class='fa fa-star'></i><i class='fa fa-star'></i><i class='fa fa-star'></i><i class='fa fa-star'></i></span>",
       "<b>SpamExpert</b> Pro Mail Protection"
     ],
     "isBestSeller": false,
